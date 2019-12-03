@@ -1,0 +1,15 @@
+
+<suite name="Learning TestNG" parallel="false">
+
+	<test name="Test">
+
+		<classes>
+			<class name="testpages.WelcomeTestPage" />
+			<class name="testpages.LoginTest" />
+			
+		</classes>
+
+
+	</test>
+
+</suite>
